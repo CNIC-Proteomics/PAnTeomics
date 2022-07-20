@@ -5,5 +5,5 @@ HiPATIa (ya existe)
 L..e.. peptidoform annotation tool 
 (LePAnTo)
 
-Peptidoform annotation tool for proteomic analysis
+Peptidoform Annotation Tool for proteomic analysis
 PAnTeomics
