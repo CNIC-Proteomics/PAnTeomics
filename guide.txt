@@ -1,0 +1,3 @@
+- https://apprisws.bioinfo.cnio.es/rest/exporter/id/homo_sapiens/ENSG00000099999?ids=ENST00000215798&methods=spade&format=json&as=hg38&sc=ensembl&ds=e105v46
+
+- descargar dbPTM

@@ -1,0 +1,72 @@
+ADP-ribosylation	107	35		
+AMPylation	27	20		
+Acetylation	138169	19451		
+Amidation	3316	1084		
+Biotinylation	12	12		
+Blocked amino end	26	25		
+Butyrylation	82	3		
+C-linked Glycosylation	211	19		
+Carbamidation	22	1		
+Carboxyethylation	1	1		
+Carboxylation	44	63		
+Cholesterol ester	2	2		
+Citrullination	122	18		
+Crotonylation	373	7		
+D-glucuronoylation	1	1		
+Deamidation	92	44		
+Deamination	42	13		
+Decanoylation	6	7		
+Decarboxylation	2	2		
+Dephosphorylation	133	95		
+Disulfide bond	6	1		
+Farnesylation	87	83		
+Formation of an isopeptide bond	29	16		
+Formylation	256	47		
+GPI-anchor	103	57		
+Gamma-carboxyglutamic acid	508	94		
+Geranylgeranylation	81	48		
+Glutarylation	952	4		
+Glutathionylation	4129	85		
+Hydroxyceramide ester	3	1		
+Hydroxylation	2404	353		
+Iodination	19	2		
+Lactoylation	306	1		
+Lactylation	336	2		
+Lipoylation	35	30		
+Malonylation	12847	12		
+Methylation	16114	8897		
+Myristoylation	312	207		
+N-carbamoylation	1	1		
+N-linked Glycosylation	27361	1941		
+N-palmitoylation	74	64		
+Neddylation	1676	4		
+Nitration	81	17		
+O-linked Glycosylation	16692	4457		
+O-palmitoleoylation	6	11		
+O-palmitoylation	3	3		
+Octanoylation	7	8		
+Oxidation	427	83		
+Phosphatidylethanolamine amidation	9	7		
+Phosphorylation	1615054	44986		
+Propionylation	13	3		
+Pyrrolidone carboxylic acid	965	571		
+Pyrrolylation	1	1		
+Pyruvate	25	21		
+S-Cyanation	1	2		
+S-archaeol	1	1		
+S-carbamoylation	1	2		
+S-cysteinylation	2	2		
+S-diacylglycerol	58	50		
+S-linked Glycosylation	5	7		
+S-nitrosylation	4172	190		
+S-palmitoylation	6501	571		
+Serotonylation	9	2		
+Stearoylation	3	3		
+Succinylation	17973	59		
+Sulfation	252	129		
+Sulfhydration	8	7		
+Sulfoxidation	7581	124		
+Sumoylation	5889	221		
+Thiocarboxylation	13	13		
+UMPylation	10	8		
+Ubiquitination	348307	669

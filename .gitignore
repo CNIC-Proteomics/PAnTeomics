@@ -1,0 +1,6 @@
+__pycache__/
+*.gtf
+*.feather
+*.tsv
+*.zip
+*.gz
